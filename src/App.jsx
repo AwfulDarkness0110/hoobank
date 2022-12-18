@@ -1,4 +1,16 @@
 import styles from "./style";
+import {
+  Nav,
+  Billing,
+  CardDeal,
+  Business,
+  Clients,
+  CTA,
+  Stats,
+  Footer,
+  Testimonials,
+  Hero,
+} from "./components";
 
 const App = () => {
   return (
