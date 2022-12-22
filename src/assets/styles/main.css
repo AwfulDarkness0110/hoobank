@@ -96,6 +96,12 @@
   }
 }
 
+@media screen and (min-width: 1060px) {
+  .hero-image {
+    animation: slide-left 1.1s ease;
+  }
+}
+
 @keyframes slide-top {
   0% {
     -webkit-transform: translateY(100px);
@@ -104,6 +110,20 @@
   100% {
     -webkit-transform: translateY(0);
     transform: translateY(0);
+  }
+}
+
+@keyframes slide-left {
+  from {
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+    opacity: 0;
+  }
+
+  to {
+    -webkit-transform: translateY(0%);
+    transform: translateY(0%);
+    opacity: 1;
   }
 }
 
