@@ -4,11 +4,7 @@ const Billing = () => {
   return (
     <section id="product" className={layout.sectionReverse}>
       <div className={layout.sectionImgReverse}>
-        <img
-          src={bill}
-          alt="Billing"
-          className="w-full aspect-square relative z-50"
-        />
+        <img src={bill} alt="Billing" className="w-full relative z-50" />
 
         <div className="absolute z-30 -left-1/2 top-0 w-[50%] aspect-square rounded-full white__gradient"></div>
         <div className="absolute z-0 -left-1/2 bottom-0 w-[50%] aspect-square rounded-full pink__gradient"></div>

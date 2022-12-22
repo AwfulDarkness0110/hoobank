@@ -48,7 +48,7 @@ const Hero = () => {
         <img
           src={robot}
           alt="Robotic arm managing bills and credit cards. "
-          className="hero-image w-[100%] h-[100%] relative z-[50]"
+          className="hero-image w-[100%] relative z-[50]"
         />
         <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient"></div>
         <div className="absolute z-[10] w-[80%] h-[80%] rounded-full bottom-40 white__gradient pink__gradient"></div>
