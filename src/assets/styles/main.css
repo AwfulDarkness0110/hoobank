@@ -94,10 +94,6 @@
 }
 
 @media screen and (min-width: 1060px) {
-  .hero-image {
-    animation: slide-left 1.1s ease;
-  }
-
   .ha-1,
   .ha-2,
   .ha-3 {
