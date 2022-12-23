@@ -21,7 +21,7 @@ const Hero = () => {
         </div>
 
         <div className="flex flex-row justify-between items-center w-full">
-          <h1 className="ha-1 flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[1.25em] leading-[75px] mt-4">
+          <h1 className="ha-1 flex-1 font-poppins font-semibold ss:text-[72px] text-[48px] text-white ss:leading-[1.25em] leading-[75px] mt-4">
             The Next
             <br />
             <span className="ha-2 text-gradient">Generation</span>
@@ -32,7 +32,7 @@ const Hero = () => {
           </div>
         </div>
 
-        <h2 className="ha-3 font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[1.25em] leading-[75px] w-full">
+        <h2 className="ha-3 font-poppins font-semibold ss:text-[72px] text-[48px] text-white ss:leading-[1.25em] leading-[75px] w-full">
           Payment Method.
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5 leading-8`}>
