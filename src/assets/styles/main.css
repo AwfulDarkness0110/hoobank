@@ -140,11 +140,6 @@
   transition: all 300ms ease-in-out;
 }
 
-.feature-card:hover {
-  background: var(--black-gradient);
-  box-shadow: var(--card-shadow);
-}
-
 .feedback-container .feedback-card:last-child {
   margin-right: 0px;
 }
@@ -153,9 +148,14 @@
   background: transparent;
 }
 
-.feedback-card:hover {
+.feedback-card:hover,
+.feature-card:hover {
   background: var(--black-gradient);
   transform: scale(1.05);
+}
+
+.feature-card:hover {
+  box-shadow: var(--card-shadow);
 }
 
 .cta {
