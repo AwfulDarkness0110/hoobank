@@ -18,7 +18,7 @@ Hi there 👋! This is a landing page for HooBank, a fictitious app whose gorgeo
 
 ### ⚠ Warning ⚠
 
-The `backdrop-filter: blur()` effect makes the colors look really off on Firefox, I'll try to implement it in a way that doesn't make the website look like it was made up by a clown...
+The `backdrop-filter: blur()` effect makes the colors look really off on Firefox. I ❤ Firefox so I'll try to implement it in a way that doesn't make the website look like it was made up by a clown...
 
 | ![](./public/screenshots/mobile_view.png) | ![](./public/screenshots/tablet_view.png) | ![](./public/screenshots/desktop_view.png) |
 | ----------------------------------------- | ----------------------------------------- | ------------------------------------------ |
