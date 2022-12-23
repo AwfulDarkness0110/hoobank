@@ -85,6 +85,14 @@
   animation: slide-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
 }
 
+.clients {
+  transition: all 200ms ease-in-out;
+}
+
+.clients:hover {
+  filter: brightness(100%) contrast(0) grayscale(100%);
+}
+
 @-webkit-keyframes slide-top {
   0% {
     -webkit-transform: translateY(100px);
