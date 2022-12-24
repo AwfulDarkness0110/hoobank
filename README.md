@@ -14,7 +14,7 @@ Hi there 👋! This is a landing page for HooBank, a fictitious app whose gorgeo
 - [Chrome](https://www.google.com/chrome/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-### [Live Preview 🎨](https://rwxdan-hoobank-lp.netlify.app/)
+### [Live Preview 🎨](https://hoobank.proj.rwxdan.dev)
 
 ### ⚠ Warning ⚠
 
