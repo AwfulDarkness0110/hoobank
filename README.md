@@ -2,7 +2,7 @@
 
 ## What's this? 🤔
 
-Hi there 👋! This is a landing page for HooBank, a fictitious app whose gorgeous design was created by [@adrianhajdin](https://github.com/adrianhajdin) and completed by their community over at [Figma](https://www.figma.com/).
+Hi there 👋! This is a landing page for HooBank, a fictional app whose gorgeous design was created by [@adrianhajdin](https://github.com/adrianhajdin) and completed by their community over at [Figma](https://www.figma.com/).
 
 ### Tools used 🧰
 
@@ -14,7 +14,7 @@ Hi there 👋! This is a landing page for HooBank, a fictitious app whose gorgeo
 - [Chrome](https://www.google.com/chrome/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-### [Live Preview 🎨](https://hoobank.proj.rwxdan.dev)
+### [Live Preview 🎨](https://hoobank-rwxdan.vercel.app/)
 
 ### ⚠ Warning ⚠
 
